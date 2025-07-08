@@ -1,6 +1,6 @@
 # 📊 Project Report – Soccer Player Re-Identification
 
-**Name:** [Your Name]  
+**Name:** MALANI GOUTHAM
 **Role:** AI Intern  
 **Company:** Liat.ai  
 **Task Option:** Soccer Player Detection and Re-Identification
